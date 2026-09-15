@@ -5,12 +5,12 @@ This project provides an end-to-end data analytics workflow, simulating real-wor
 ## 📌 Project Overview
  The goal is to analyze customer shopping trends to help a retail company optimize marketing and product strategies. We investigate factors like discounts, shipping methods, and subscription status to understand what drives customer behavior.
 
-##**📌Technologies Used:**
+## **📌Technologies Used:**
 Data Cleaning & EDA: Python (Pandas)
 Database Management: PostgreSQL
 Visualization: Power BI
 Documentation & Presentation: Gamma AI
-##**📌Workflow Stages**:
+## **📌Workflow Stages**:
 **Data Preparation :** Importing raw datasets, handling missing values with category-specific medians, and performing feature engineering (e.g., grouping ages, converting text frequencies to numeric days).
 **Advanced SQL Analysis** : Utilizing complex queries, including subqueries and window functions, to solve specific business problems like customer segmentation and identifying high-value products.
 **Dashboard Construction** : Building an interactive Power BI dashboard featuring KPIs such as total revenue, customer count, and behavioral trends.
