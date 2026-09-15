@@ -17,6 +17,6 @@ Documentation & Presentation: Gamma AI
 **Reporting & Presentation** : Documenting findings in a project report and using AI to generate a professional stakeholder presentation deck.
 
 
-💼 LinkedIn: [Gajanan kalbande][((https://www.linkedin.com/in/gajanan-kalbande-ab194326a/))](https://www.linkedin.com/in/gajanan-kalbande-ab194326a/)
+## 💼 LinkedIn: [Gajanan kalbande][((https://www.linkedin.com/in/gajanan-kalbande-ab194326a/))](https://www.linkedin.com/in/gajanan-kalbande-ab194326a/)
 - Let’s connect professionally and grow your data career
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
